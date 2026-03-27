@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1001,
+    "name": "Firulais",
+    "status": "available",
+    "category": { "id": 1, "name": "Dogs" },
+    "tags": [{ "id": 1, "name": "friendly" }]
+  },
+  {
+    "id": 1002,
+    "name": "Mittens",
+    "status": "pending",
+    "category": { "id": 2, "name": "Cats" },
+    "tags": [{ "id": 2, "name": "indoor" }]
+  },
+  {
+    "id": 1003,
+    "name": "Tweety",
+    "status": "sold",
+    "category": { "id": 3, "name": "Birds" },
+    "tags": [{ "id": 3, "name": "singing" }]
+  }
+]
